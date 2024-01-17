@@ -21,7 +21,7 @@ self.addEventListener('active', function () {
 });
 
 var precacheUrls = [
-'/','/posts/undefined/',
+'/','/posts/undefined/','/posts/3164/','/posts/6004/','/posts/2915/','/posts/46208/','/posts/49651/','/posts/8716/','/posts/4785/','/posts/64366/','/posts/26104/','/posts/2141/','/posts/51385/','/posts/12019/','/posts/218/','/posts/64322/','/posts/9628/','/baidu_verify_NhlEir5LAV.html','/baidu_verify_zQef3H7nga.html','/googlead7e415d5708bb6e.html','/about/index.html','/code/yao2048.js','/extension/content.json','/code/yaoplayer.js','/gallery/index.html','/icons/index.html','/letter/index.html','/library/index.html','/records/content.json','/records/index.html','/resume/index.html','/extension/letter/index.css','/extension/letter/index.js','/extension/resume/index.js','/extension/test/index.html','/extension/resume/index.css','/extension/letter/chinese/data.json','/extension/letter/chinese/index.html','/extension/letter/english/data.json','/extension/letter/english/index.html','/extension/resume/chinese/index.html','/extension/resume/chinese/data.json','/extension/resume/english/data.json','/extension/resume/english/index.html',
 ];
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
