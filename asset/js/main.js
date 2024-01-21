@@ -542,11 +542,11 @@ const listen2Title = o => {
   let timer = null;
   document.onvisibilitychange = function () {
     if (document.hidden) {
-      document.title = config.get('langshift') ? '╭(°A°`)╮ Opps, page crashes ~' : '╭(°A°`)╮ 页面崩溃啦 ~';
+      document.title = config.get('langshift') ? '╭(°A°)╮ Oops, hit a cosmic bump!' : '╭(°A°`)╮数字空间崩溃啦！？';
       window.clearTimeout(timer);
     }
     else {
-      document.title = (config.get('langshift') ? '(ฅ>ω<*ฅ) Eh, restore again~ ' : '(ฅ>ω<*ฅ) 噫又好了~ ') + origin;
+      document.title = (config.get('langshift') ? '🚀Back online, in a flash!' : '🚀不！这只是量子跃迁！') + origin;
       timer = window.setTimeout(e => {
         document.title = origin;
       }, 2000);
