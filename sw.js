@@ -21,7 +21,7 @@ self.addEventListener('active', function () {
 });
 
 var precacheUrls = [
-'/','/posts/26104/','/posts/45029/','/about/index.html','/extension/content.json','/gallery/index.html','/icons/index.html','/letter/index.html','/library/index.html','/records/content.json','/records/index.html','/resume/index.html','/extension/letter/index.js','/extension/letter/index.css','/extension/resume/index.js','/extension/resume/chinese/data.json','/extension/resume/english/data.json','/extension/resume/index.css','/extension/letter/english/data.json','/extension/letter/chinese/data.json',
+'/','/posts/26104/','/posts/45029/','/gallery/index.html','/extension/content.json','/icons/index.html','/letter/index.html','/about/index.html','/records/index.html','/library/index.html','/records/content.json','/resume/index.html','/extension/letter/index.js','/extension/letter/index.css','/extension/resume/index.css','/extension/resume/index.js','/extension/letter/chinese/data.json','/extension/resume/chinese/data.json','/extension/letter/english/data.json','/extension/resume/english/data.json',
 ];
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
