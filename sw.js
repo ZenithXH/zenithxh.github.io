@@ -21,7 +21,7 @@ self.addEventListener('active', function () {
 });
 
 var precacheUrls = [
-'/','/posts/31708/','/posts/43590/','/posts/26104/','/posts/45029/','/about/index.html','/gallery/index.html','/extension/content.json','/letter/index.html','/icons/index.html','/library/index.html','/records/index.html','/records/content.json','/resume/index.html','/extension/letter/index.js','/extension/letter/index.css','/extension/resume/index.js','/extension/resume/index.css','/extension/letter/chinese/data.json','/extension/letter/english/data.json','/extension/resume/chinese/data.json','/extension/resume/english/data.json',
+'/','/posts/31708/','/posts/43590/','/posts/26104/','/posts/45029/','/gallery/index.html','/about/index.html','/letter/index.html','/icons/index.html','/extension/content.json','/library/index.html','/records/content.json','/records/index.html','/extension/letter/index.js','/extension/letter/index.css','/resume/index.html','/extension/resume/index.css','/extension/resume/index.js','/extension/letter/chinese/data.json','/extension/letter/english/data.json','/extension/resume/chinese/data.json','/extension/resume/english/data.json',
 ];
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
