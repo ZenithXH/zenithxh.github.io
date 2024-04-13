@@ -129,7 +129,7 @@
 :root.night {
   --color-text: #ccc;
   --color-background: rgba(0,0,0,0.8);
-  --color-link: #f39;
+  --color-link: #ffefd5;
   --color-clear: #333;
   --color-shadow: #333;
   --color-error: #f33;
