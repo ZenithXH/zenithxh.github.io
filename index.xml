@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>子涵视界ZenithXH on 子涵视界</title>
+    <link>https://zenithxh.github.io/</link>
+    <description>Recent content in 子涵视界ZenithXH on 子涵视界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>ZenithXH.126.com (子涵视界)</managingEditor>
+    <webMaster>ZenithXH.126.com (子涵视界)</webMaster>
+    <copyright>2025 · 网站处于开发阶段🫡</copyright>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zenithxh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo结合Blowfish构建个人博客</title>
+      <link>https://zenithxh.github.io/posts/dev2/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (子涵视界)</author>
+      <guid>https://zenithxh.github.io/posts/dev2/</guid>
+      <description>这是网站的第一篇帖子</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/posts/dev2/featured.svg" />
+    </item>
+    
+    <item>
+      <title>MD文件的基本语法</title>
+      <link>https://zenithxh.github.io/posts/markdown/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (子涵视界)</author>
+      <guid>https://zenithxh.github.io/posts/markdown/</guid>
+      <description>Markdown语法</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/posts/markdown/featured.svg" />
+    </item>
+    
+    <item>
+      <title>连接未来！支持RSS订阅与Follow认证</title>
+      <link>https://zenithxh.github.io/posts/rss/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (子涵视界)</author>
+      <guid>https://zenithxh.github.io/posts/rss/</guid>
+      <description>RSS订阅</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/posts/rss/featured.svg" />
+    </item>
+    
+    <item>
+      <title>施工中</title>
+      <link>https://zenithxh.github.io/tool/test/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (子涵视界)</author>
+      <guid>https://zenithxh.github.io/tool/test/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/tool/test/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>欢迎来到 Blowfish ！ on ZenithXH</title>
+    <link>https://zenithxh.github.io/en/</link>
+    <description>Recent content in 欢迎来到 Blowfish ！ on ZenithXH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ZenithXH.126.com (ZenithXH)</managingEditor>
+    <webMaster>ZenithXH.126.com (ZenithXH)</webMaster>
+    <copyright>2025 · Website in development phase🪽</copyright>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zenithxh.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crafting a Personal Blog with Hugo and Blowfish</title>
+      <link>https://zenithxh.github.io/en/posts/dev2/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (ZenithXH)</author>
+      <guid>https://zenithxh.github.io/en/posts/dev2/</guid>
+      <description>A description</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/posts/dev2/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Essential Markdown Syntax</title>
+      <link>https://zenithxh.github.io/en/posts/markdown/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (ZenithXH)</author>
+      <guid>https://zenithxh.github.io/en/posts/markdown/</guid>
+      <description>Mastering Markdown formatting</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/posts/markdown/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Support RSS Subscriptions and Follow Verification</title>
+      <link>https://zenithxh.github.io/en/posts/rss/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (ZenithXH)</author>
+      <guid>https://zenithxh.github.io/en/posts/rss/</guid>
+      <description>RSS</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/posts/rss/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://zenithxh.github.io/en/tool/test/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (ZenithXH)</author>
+      <guid>https://zenithxh.github.io/en/tool/test/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/tool/test/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

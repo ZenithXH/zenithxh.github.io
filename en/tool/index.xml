@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool on ZenithXH</title>
+    <link>https://zenithxh.github.io/en/tool/</link>
+    <description>Recent content in Tool on ZenithXH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ZenithXH.126.com (ZenithXH)</managingEditor>
+    <webMaster>ZenithXH.126.com (ZenithXH)</webMaster>
+    <copyright>2025 · Website in development phase🪽</copyright>
+    <lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zenithxh.github.io/en/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://zenithxh.github.io/en/tool/test/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <author>ZenithXH.126.com (ZenithXH)</author>
+      <guid>https://zenithxh.github.io/en/tool/test/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zenithxh.github.io/tool/test/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
